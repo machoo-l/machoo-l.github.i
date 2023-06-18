@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Bulletin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jan 2023 16:40:17 -0600</lastBuildDate><atom:link href="http://machoo-l.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jun 2023 22:47:37 -0500</lastBuildDate><atom:link href="http://machoo-l.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lenovo Tiny PC</title>
+      <link>http://machoo-l.github.io/posts/lenovo-tiny-pc/</link>
+      <pubDate>Sat, 17 Jun 2023 22:47:37 -0500</pubDate>
+      
+      <guid>http://machoo-l.github.io/posts/lenovo-tiny-pc/</guid>
+      <description>I want to host a permanent Minecraft server for me and my friends to play. Lenovo&amp;rsquo;s tiny business computers seem like a good choice to host the server. It can also be used for a Plex server to stream shows.</description>
+    </item>
+    
     <item>
       <title>First Post</title>
       <link>http://machoo-l.github.io/posts/my-first-post/</link>
