@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bulletin by Matthew</title>
+    <title>Bulletin</title>
     <link>http://machoo-l.github.io/</link>
-    <description>Recent content on Bulletin by Matthew</description>
+    <description>Recent content on Bulletin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Jan 2023 16:40:17 -0600</lastBuildDate><atom:link href="http://machoo-l.github.io/index.xml" rel="self" type="application/rss+xml" />

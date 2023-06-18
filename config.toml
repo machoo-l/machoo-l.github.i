@@ -1,4 +1,4 @@
 baseURL = 'http://machoo-l.github.io/'
 languageCode = 'en-us'
-title = 'Bulletin by Matthew'
+title = 'Bulletin'
 theme = 'ananke'
