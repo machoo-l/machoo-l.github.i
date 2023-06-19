@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firearm on Bulletin</title>
+    <link>http://machoo-l.github.io/tags/firearm/</link>
+    <description>Recent content in Firearm on Bulletin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jun 2023 10:42:33 -0500</lastBuildDate><atom:link href="http://machoo-l.github.io/tags/firearm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PTR 9CT</title>
+      <link>http://machoo-l.github.io/posts/ptr-9ct/</link>
+      <pubDate>Mon, 19 Jun 2023 10:42:33 -0500</pubDate>
+      
+      <guid>http://machoo-l.github.io/posts/ptr-9ct/</guid>
+      <description>PTR 9CT is a relatively cheap American made MP5 clone.</description>
+    </item>
+    
+    <item>
+      <title>Beretta M9</title>
+      <link>http://machoo-l.github.io/posts/beretta-m9/</link>
+      <pubDate>Mon, 19 Jun 2023 10:35:02 -0500</pubDate>
+      
+      <guid>http://machoo-l.github.io/posts/beretta-m9/</guid>
+      <description>The Beretta M9 comes in 9mm and 22LR variant. Starting off with the 22LR would be cheap for training and easy for introducing the family to guns.</description>
+    </item>
+    
+  </channel>
+</rss>
