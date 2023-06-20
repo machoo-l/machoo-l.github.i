@@ -1,0 +1,8 @@
+baseURL = 'http://machoo-l.github.io/'
+languageCode = 'en-us'
+title = "Bulletin"
+theme = 'ananke'
+author = "Matthew"
+Paginate = 10
+# Automatically add content sections to main menu
+SectionPagesMenu = "main"
